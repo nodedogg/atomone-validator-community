@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| Nodedog  | https://nodedog.io  | N/A  | Germany  | https://github.com/nodedogg  | nodedog1@gmail.com  | iron32850  | 33E2221AC3847F8D1A27E8203C5C5FF5C70E2B191FD8677E773DCE3F32F7949F  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
